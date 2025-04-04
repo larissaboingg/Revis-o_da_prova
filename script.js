@@ -1,3 +1,4 @@
+/*
 // Atividade 1 - Somador de Números
 let numero = prompt ("Digite quantos numeros deseja somar?");
 let soma = 0;
@@ -31,5 +32,11 @@ if (saldo <= 0){
 } else {
     console.log ("Sua empresa teve lucro");
 }
-
+*/
 // Atividade 4 - Números em Ordem Decrescente 
+// Atividade 5 -  Transformador de Par em Ímpar  
+let n = parseInt(prompt("Digite um número:"));
+function parimpar (n){
+
+}
+return (n)
